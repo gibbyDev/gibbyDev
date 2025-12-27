@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cody Gibbs
 - 👀 I’m a fullstack developer interested in automation, robotics, and ethical hacking!
-- 💞️ I’m looking to collaborate on websites, apps, and hacking projects
+- I’m seeking collaboration on websites, apps, and hacking projects
 - 📫 How to reach me codygibbs432@gmail.com
 
 <!---
